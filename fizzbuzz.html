@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+	p.pa{
+		font-size: 20px;
+		margin-left: 340px;
+		margin-top: 60px;
+	}
+
+	body{
+		background-color: #0489B1;
+	}
+
+	center.ce{
+		font-size: 30px;
+	}
+
+	button.btn{
+		height: 40px;
+		width: 100px;
+		border-width: 3px;
+		border-style: solid;
+		border-radius: 10px;
+		background-color: #BDBDBD;
+		border-color: #013ADF; 
+		margin-top: 10px;
+		margin-left: 625px;
+	}
+
+  </style>
+  <title>FizzBuzz</title>
+ </head>
+ <body>
+
+  <p class = "pa">Let's Play <b>FizzBuzz!</b> This program prints the numbers from 1 to your choose number. <br>But for multiples of <i>three</i> print <b>Fizz</b> instead of the number and for the multiples of <i>five</i> <br> print <b>Buzz</b>. For numbers which are multiples of <i>both three and five</i> print <b>FizzBuzz</b>. <br><span><center class = "ce">Have fun!!</center></span> </p>
+  <button class="btn" span style="cursor:pointer" onclick= "fizzBuzz()"> <b>FizzBuzz</b></button>
+	
+	<script>
+  		function fizzBuzz() {
+			var number = prompt("Pick a number to FizzBuzz up to!");
+			for (var i = 1; i <= number; i++) {
+			    if (i % 15 === 0) {
+			        document.write('FizzBuzz'.big().bold().fontcolor("red") + "<br>");
+			    } else if (i % 3 === 0) {
+			        document.write('Fizz'.italics().bold().big().fontcolor("green")  + "<br>");
+			    } else if (i % 5 === 0) {
+			        document.write('Buzz'.italics().bold().big().fontcolor("blue") +"<br>");
+			    } else {
+			        document.write(i + "<br>");
+			    }
+			}
+		}
+  	</script>
+
+ </body>
+</html>
+
+

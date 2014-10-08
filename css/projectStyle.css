@@ -1,0 +1,31 @@
+h1{
+	font: 60px 'Open+Sans', normal;
+	margin-left: 560px;
+	margin-top: 100px;
+}
+
+body{
+	background-color: white; 
+	background-image: url(../images/lake.jpg);
+	background-size: 120%;
+}
+
+div{
+	margin-top: 100px;
+	margin-left: 490px;
+	margin-right: 500px;
+	border-width:3px;
+	border-style:dotted;
+}
+
+#con{
+	text-decoration: none;
+	font: 30px 'Open+Sans', normal;
+	margin-left: 110px;
+}
+
+#buz{
+	text-decoration: none;
+	font: 30px 'Open+Sans', normal;
+	margin-left: 115px;
+}

@@ -15,7 +15,7 @@ document.getElementById("btn5").onclick = function () {
 };
 
 document.getElementById("btn7").onclick = function () {
-    location.href = "C://Users/katerine/Desktop/instagram-gravity-gallery/index1.html";
+    location.href = "instagram.html";
 
 };
 

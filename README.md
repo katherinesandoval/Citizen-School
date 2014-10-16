@@ -5,6 +5,7 @@ This is the curriculum and projects use to teach intro to HTML/CSS and JavaScrip
 
 
 Week 1:  The Magic of HTML
+
 -What is HTML?
 -Purpose of this class. Create a profile page. Why?
 -Profiles, why is it important? Look at different “About Me” pages. 
@@ -37,11 +38,13 @@ Week 4: Let's Link with a Click
 -Let’s create some fancy buttons! Facebook (or any other social media) button.
 *Maybe: -How to link everything we have so far? JavaScript function for buttons. 
 
+
 Week 5: Who said JavaScript?!
 
 -Link main page to projects and other pages created
 -Start teaching basic more advance JavaScript 
 -Brainstorm - API class: Instagram gallery or google Maps 
+
 
 Week 6: My First JavaScript program!
 

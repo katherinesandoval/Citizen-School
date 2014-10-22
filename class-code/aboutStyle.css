@@ -1,0 +1,44 @@
+body{
+	background-color:#0B0B3B;
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+}
+
+#one{
+	width:60%;
+}
+
+h1{
+	font:  'Open+Sans', normal;
+	margin-left: 20%;
+	margin-top:  40px;
+	color:white;
+}
+
+#write{
+	font: 20px 'Open+Sans', normal;
+	margin-left: 20%;
+	color:white
+}
+
+#first{
+	display:block;
+	margin-left: 20%;
+	color: white;
+}
+
+#second{
+	display:block;
+	margin-left: 20%;
+	margin-top: 10px;
+	color: white;
+}
+
+img{
+	margin-top: -330px;
+	margin-left: 60%;
+	height:100%;
+	width:35%;
+}

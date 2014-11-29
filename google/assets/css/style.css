@@ -1,0 +1,29 @@
+body {
+	background:url(../images/cc.png) ;
+	background-size: 100%;
+}
+
+span{
+	cursor:pointer;
+	color: #2F0B3A;
+}
+
+h1 {
+    font-family: 'Droid Serif', serif;
+    color: black;
+    text-align:center;
+    font-size:300%;
+}
+
+.btn {
+	margin-top: 50px;
+	height: 150px; 
+	width: 150px;   
+	background-image:url(../images/hat2.png);
+	background-color: transparent;
+	border:0px;
+}
+
+
+
+
